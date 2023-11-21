@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm passionate about coding and contributing to open-source projects with experience building frontend and backend systems and APIs in Java. I'm passionate about writing clean, readable code and delivering robust, scalable solutions. 
-I'm always open to collaborating on new and innovative ideas. Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil07patil/)
+I'm always open to collaborating on new and innovative ideas.
 
 ## 🚀 Technologies
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
